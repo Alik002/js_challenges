@@ -25,3 +25,16 @@ do {
     count++;
 } while (count < 10);
 
+
+
+// write a uninfite while loop
+
+for(;;){
+    console.log("hellow")
+}
+
+// write an infinite while loop
+
+while (true){
+    console.log("infinite")
+}
